@@ -1,3 +1,4 @@
+//yang ii lhoo rul
 <?php
 $cKategori = new KategoriController();
 
